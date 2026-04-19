@@ -1,0 +1,30 @@
+{
+  "name": "create-stack",
+  "version": "1.1.0",
+  "description": "One-command project generator",
+  "main": "src/index.js",
+  "bin": {
+    "create-stack": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node ./bin/cli.js",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [
+    "cli",
+    "generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.0",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.2.0",
+    "ora": "^5.4.1",
+    "prompts": "^2.4.2"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.4"
+  }
+}
