@@ -70,5 +70,4 @@ pnpm test:watch    # watch mode
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Note that `package.json` still declares `ISC`; the
-`LICENSE` file is the authoritative one and should be reconciled.
+MIT — see [LICENSE](LICENSE).
