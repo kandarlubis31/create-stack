@@ -68,6 +68,14 @@ pnpm test          # single run
 pnpm test:watch    # watch mode
 ```
 
+---
+
+## Bahasa Indonesia
+
+**create-stack** adalah CLI interaktif untuk menyiapkan proyek baru dalam satu perintah: menyalin template sesuai stack pilihan, menulis ulang `package.json`, opsional menginisialisasi Git, lalu memasang dependensi dengan package manager yang sesuai.
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
